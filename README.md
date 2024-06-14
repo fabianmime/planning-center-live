@@ -7,6 +7,10 @@ Instructions
   ```shell
   sudo apt-get install jq
   ```
+- Install curl if it is not already installed:
+  ```shell
+  sudo apt-get install curl
+  ```
 - Save the shell script as get_next_plan.sh and make it executable:
   ```shell
   chmod +x get_next_plan.sh
