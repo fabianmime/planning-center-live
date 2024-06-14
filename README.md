@@ -12,7 +12,7 @@ Instructions
   chmod +x get_next_plan.sh
   ```
 - Customize the script by entering the desired service type and credentials.
-  Generate the Credentials here: https://api.planningcenteronline.com/oauth/applications
+- Generate the Credentials here: https://api.planningcenteronline.com/oauth/applications
 - Run the script in a Terminal:
   ```shell
   ./get_next_plan.sh
