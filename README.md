@@ -2,7 +2,7 @@
 This script makes it possible to find the next plan of a specific Planning Centre Online service type and to open this plan in full screen mode in the Firefox browser. The service type and the access data are defined in the script. 
 
 Instructions
-- Install Plain XUbuntu OS (Maybe other Distributions also Work - but not Tested)
+- Install Plain XUbuntu 22.04.4 LTS (Maybe other Distributions also Work - but not Tested)
 - Install jq if it is not already installed:
   ```shell
   sudo apt-get install jq
